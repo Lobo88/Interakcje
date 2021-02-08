@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class PlayerInteractionScript : MonoBehaviour
 {
-    BoxScript ObjectInteract;
+    Interactable1 ObjectInteract;
     private bool CanTake=false;
 
     void Update()
